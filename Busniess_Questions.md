@@ -127,7 +127,7 @@ Which city contributes the largest share of total revenue?
 
 ---
 
-Section 7: Product Line Analysis
+# Section 7: Product Line Analysis
 
 ### Q36.
 Which product line generates the highest revenue?
@@ -171,7 +171,7 @@ Which customer type is more profitable?
 
 ---
 
-Section 9: Gender Analysis
+# Section 9: Gender Analysis
 
 ### Q48.
 What is the gender distribution?
@@ -193,7 +193,7 @@ Which product lines are most preferred by males?
 
 ---
 
-Section 10: Payment Method Analysis
+# Section 10: Payment Method Analysis
 
 ### Q54.
 Which payment method is used most frequently?
@@ -212,7 +212,7 @@ Which payment method is preferred by Normal customers?
 
 ---
 
-Section 11: Time-Based Analysis
+# Section 11: Time-Based Analysis
 
 ### Q59.
 Which month generated the highest revenue?
